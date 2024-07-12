@@ -1,0 +1,22 @@
+.main_canvas {
+  /*margin-left:10px;*/
+  text-align:center;
+  width: 100%;
+  height:auto;
+  
+}
+
+.main_img_container { 
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.main_img{
+  width: 55%;
+  height:auto;
+    box-shadow: 4px 4px 4px rgba(0,0,0,1);
+    border-radius: 10px;
+  }
+
+.welcome { text-align: center;}

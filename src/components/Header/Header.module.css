@@ -1,0 +1,13 @@
+
+.header_class{
+    /*padding-top:0px;
+    margin-top:0px;
+    box-sizing: border-box;*/
+    height: 570px; width:100%;  
+   /*background-image: url("/src/img/P9055292.JPG");*/
+    background-size: cover;
+    background-position-y: -320px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-bottom: 0px;
+}  
